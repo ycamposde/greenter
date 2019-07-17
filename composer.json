@@ -3,6 +3,7 @@
     "description": "Implementación de la Facturacion Electrónica SUNAT - Perú",
     "keywords": ["sunat", "xml", "facturacion electronica", "ubl21", "ubl20"],
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Giancarlos Salas",
