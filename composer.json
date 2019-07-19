@@ -19,7 +19,7 @@
     "require": {
 		"php": ">=5.5.9",
         "ext-dom": "*",
-        "greenter/xmldsig": "dev-master",
+        "greenterose/xmldsig": "dev-master",
         "greenterose/core": "dev-master",
         "greenterose/ws": "dev-master",
         "greenterose/xml": "dev-master"
