@@ -1,23 +1,28 @@
 {
-    "name": "greenter/greenter",
+    "name": "osktgui/greenterose",
     "description": "Implementación de la Facturacion Electrónica SUNAT - Perú",
     "keywords": ["sunat", "xml", "facturacion electronica", "ubl21", "ubl20"],
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Giancarlos Salas",
             "email": "giansalex@gmail.com"
+        },
+        {
+            "name": "Luis Oscátegui",
+            "email": "osktgui@gmail.com"
         }
     ],
-    "homepage": "https://github.com/giansalex/greenter",
+    "homepage": "https://github.com/osktgui/greenter",
     "type": "library",
     "require": {
 		"php": ">=5.5.9",
         "ext-dom": "*",
-        "greenter/xmldsig": "^5.0",
-        "greenter/core": "^2.1",
-        "greenter/ws": "^2.1",
-        "greenter/xml": "^2.1"
+        "greenterose/xmldsig": "dev-master",
+        "greenterose/core": "dev-master",
+        "greenterose/ws": "dev-master",
+        "greenterose/xml": "dev-master"
     },
 	"require-dev": {
         "phpunit/phpunit": ">=4.8 < 6.0"
