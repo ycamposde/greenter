@@ -19,10 +19,10 @@
     "require": {
 		"php": ">=5.5.9",
         "ext-dom": "*",
-        "greenterycam/xmldsig": "5.0.2",
-        "greenterycam/core": "2.2.3",
-        "greenterycam/ws": "3.0.1",
-        "greenterycam/xml": "5.0.4"
+        "greenterycam/xmldsig": "7.0.1",
+        "greenterycam/core": "7.0.1",
+        "greenterycam/ws": "7.0.1",
+        "greenterycam/xml": "7.0.1"
     },
 	  "require-dev": {
         "phpunit/phpunit": ">=4.8 < 6.0"
