@@ -22,7 +22,7 @@
         "greenterycam/xmldsig": "7.0.1",
         "greenterycam/core": "7.0.1",
         "greenterycam/ws": "7.0.1",
-        "greenterycam/xml": "7.0.1"
+        "greenterycam/xml": "7.0.2"
     },
 	  "require-dev": {
         "phpunit/phpunit": ">=4.8 < 6.0"
